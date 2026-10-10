@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Msukasha",
+    "slug": "msukasha",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.msukasha.app",
+      "versionCode": 2,
+      "permissions": [],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": [
+      "expo-secure-store"
+    ],
+    "icon": "./assets/icon.png"
+  }
+}

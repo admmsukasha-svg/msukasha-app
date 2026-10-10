@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515834025571",
+    "project_id": "msukasha-1c764",
+    "storage_bucket": "msukasha-1c764.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515834025571:android:c4cccd66a414f5881fca56",
+        "android_client_info": {
+          "package_name": "msukasha.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBuScxUW_WmTksv3VX8Ij-i2UBVv1bCWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
